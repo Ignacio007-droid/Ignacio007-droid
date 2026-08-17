@@ -33,13 +33,13 @@ Soy un apasionado por la creación de arquitecturas de software robustas, el dis
 **Bases de Datos & Herramientas:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 📈 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignacio007-droid&show_icons=true&theme=tokyonight" alt="Estadísticas de Ignacio" />
-</p>
+
+![Estadísticas de Ignacio](https://github-readme-stats.vercel.app/api?username=Ignacio007-droid&show_icons=true&theme=tokyonight)
 
 ### 📫 Cómo contactarme
 <p>
