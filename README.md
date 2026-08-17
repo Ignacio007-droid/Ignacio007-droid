@@ -37,10 +37,6 @@ Soy un apasionado por la creación de arquitecturas de software robustas, el dis
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de Ignacio](https://github-readme-stats.vercel.app/api?username=Ignacio007-droid&show_icons=true&theme=tokyonight)
-
 ### 📫 Cómo contactarme
 <p>
   <a href="https://www.linkedin.com/in/ignacio-arancibia-016302290" target="_blank">
